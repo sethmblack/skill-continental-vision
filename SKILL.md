@@ -1,10 +1,9 @@
 ---
 name: continental-vision
-description: Expand thinking beyond immediate boundaries to find natural coalitions,
-  shared enemies, and larger visions that unite formerly separate actors.
+description: Expand thinking beyond immediate boundaries to find natural coalitions, shared enemies, and larger visions that unite formerly separate actors.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - continental-vision
