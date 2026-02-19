@@ -4,7 +4,7 @@ description: Expand thinking beyond immediate boundaries to find natural coaliti
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3676
+  version: 1.0.3677
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - continental-vision
